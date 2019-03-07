@@ -1,0 +1,6 @@
+--upgrade pip
+ipython==5.5.0
+numpy
+psutil
+gevent
+greenlet
